@@ -1,5 +1,7 @@
 # patch-agent-evidence
 
+[![CI](https://github.com/landingen24h/patch-agent-evidence/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/patch-agent-evidence/actions/workflows/ci.yml)
+
 Raw runs of the coding agent behind https://landingen24h.com/patch (version 0.4.1, model gpt-oss-120b on Cloudflare Workers AI) on the five statements of the Kognai coding agent qualifier, sent from the statement alone. Nothing was edited by hand.
 
 Each folder holds:
